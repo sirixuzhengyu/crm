@@ -1,0 +1,4 @@
+1.upload_picture.exe
+用于浏览器上传图片，目前默认上传一张‘i百联logo’
+使用场景：在浏览器里，点击添加，唤起添加图片的框后，引用此exe，只需在python语言中插入os.system('exe的xpath')  
+目前已经封装好 upload_picture(Xpath = '\external\upload_picture.exe')，只需要把该文件夹‘external’放到运行脚本同目录下即可

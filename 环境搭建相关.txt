@@ -1,0 +1,7 @@
+在web自动化环境搭建的基础下，再安装一下2个模块
+
+1.通过pip安装xlwt， xlrd这两个模块
+
+      *pip install xlwt
+
+      *pip install xlrd   
